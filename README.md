@@ -3,7 +3,7 @@
 
 # [Hello my sketch is](http://hellomysketchis)
 
-> Tutoriales, tips, consejos y extras de diseño de productos digitales.
+> Diseño de productos digitales, pixel a pixel.
 
 ## C:
 > Copyright 2017 Hellomysketchis.
